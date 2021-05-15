@@ -1,0 +1,2 @@
+C:\Users\w10\Desktop\HurtadoDiego\HurtadoDiego\obj\Debug\HurtadoDiego.csprojAssemblyReference.cache
+C:\Users\w10\Desktop\HurtadoDiego\HurtadoDiego\obj\Debug\HurtadoDiego.csproj.CoreCompileInputs.cache
